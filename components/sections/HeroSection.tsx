@@ -60,7 +60,7 @@ export const HeroSection = () => {
 
       {/* Top row: quiet date stamp */}
       <div className="hero-mono flex items-center justify-between px-6 pt-5 text-[11px] uppercase tracking-[0.25em] text-[#8A8A80] sm:px-14 sm:pt-8 z-20">
-        <span>Aug 5</span>
+        <span>Aug 14</span>
       </div>
 
       {/* Headline & content — film trail positioned between headline and text on mobile */}

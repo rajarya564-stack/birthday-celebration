@@ -46,7 +46,7 @@ const captions = [
   "Beautiful 🌸",
   "Dream Girl 💫",
   "Queen 👑",
-  "Always You 🫶",
+  "Always You 🫶"
 ];
 
 const positions = [
